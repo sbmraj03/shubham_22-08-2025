@@ -1,0 +1,42 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.venv/
+env/
+ENV/
+
+# Database files 
+*.db
+
+# CSV files (if they're only sample/test data)
+data/*.csv
+
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Test databases
+test_database.py
